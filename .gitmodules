@@ -1,0 +1,3 @@
+[submodule "fontman"]
+	path = fontman
+	url = https://github.com/ric355/ultibofontman.git
